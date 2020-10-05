@@ -97,14 +97,6 @@ public class Gugudan {
 //        		System.out.println(number * i);
 //        	}
 //        }
-		//배열 이용하여 구구단
-		int[] result = new int[9];
-		for(int i=0; i <= result.length; i++) {
-			result[i] = 2 * (i+1);
-		}
-		
-		for(int i = 0; i <= result.length; i++) {
-			System.out.println(2*i);
-		}
+
 		}
 }
